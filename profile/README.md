@@ -8,7 +8,7 @@
   <strong>Learn • Build • Research • Deploy</strong>
 </p>
 
-![MLVerse Banner](assets/banner.png)
+![MLVerse Banner](../assets/mlverse-banner-1.png)
 
 [![Stars](https://img.shields.io/github/stars/MLVerse?style=for-the-badge)]()
 [![Contributors](https://img.shields.io/github/contributors/MLVerse?style=for-the-badge)]()
