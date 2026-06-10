@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 MLVerse
+# 🚀 MLVerse-Math
 
 ### The Open-Source Universe of Artificial Intelligence
 
@@ -19,9 +19,9 @@
 
 ---
 
-# 🌍 About MLVerse
+# 🌍 About MLVerse-Math
 
-MLVerse is a community-driven open-source ecosystem dedicated to advancing knowledge in:
+MLVerse-Math is a community-driven open-source ecosystem dedicated to advancing knowledge in:
 
 - Machine Learning
 - Deep Learning
@@ -50,7 +50,7 @@ We envision a future where every AI enthusiast, student, researcher, and enginee
 
 ---
 
-# 🏗️ MLVerse Ecosystem
+# 🏗️ MLVerse-Math Ecosystem
 
 ```
 MLVerse
@@ -226,7 +226,7 @@ Check our contribution guidelines before getting started.
 
 ---
 
-# 📊 MLVerse Principles
+# 📊 MLVerse-Math Principles
 
 ### Learn
 
@@ -265,7 +265,7 @@ There is a place for you in MLVerse.
 
 **Shivam Singh**
 
-Founder of MLVerse
+Founder of MLVerse-Math
 
 Building the future of open-source AI education, research, and deployment.
 
